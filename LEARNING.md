@@ -44,5 +44,6 @@ Priority order for the graduation project (~148 h core): Phase 1 (review) -> 2 -
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-14 | 01-math-foundations/01-linear-algebra-intuition | 3/3 | Strong on dot product, rotation, rank. Asked why projection onto [1,1,1] gives the mean. LoRA still fuzzy; revisit at Phase 11/08. |
 
 ## Review queue
