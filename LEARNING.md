@@ -8,20 +8,20 @@ Build goal: 還不確定。
 
 ## Placement
 - Date: 2026-10-14
-- Score: 7/10 (Math & Statistics 2/2, Classical ML 0/2, Deep Learning 1/2, NLP & Transformers 2/2, Applied AI 2/2)
-- Entry point: Phase 7: Transformers Deep Dive
+- Score: 7/10 (Math & Statistics 2/2, Classical ML 0/2, Deep Learning 1/2, NLP & Transformers 2/2, Applied AI 2/2); learner reports Classical ML, Deep Learning, NLP and Transformers answers were guesses, so the entry point was adjusted by the learner
+- Entry point: Phase 1: Math Foundations (light review: learned in high school, needs a refresher)
 - Pace: ~2 h/week
 
 ## Path
 | Phase | Name | Status | Est. hours |
 |-------|------|--------|------------|
 | 0 | Setup & Tooling | Skip | -- |
-| 1 | Math Foundations | Skip | -- |
-| 2 | ML Fundamentals | Review | 21 |
-| 3 | Deep Learning Core | Review | 15 |
-| 4 | Computer Vision | Skip | -- |
-| 5 | NLP — Foundations to Advanced | Skip | -- |
-| 6 | Speech & Audio | Skip | -- |
+| 1 | Math Foundations | Review | 23 |
+| 2 | ML Fundamentals | Do | 21 |
+| 3 | Deep Learning Core | Do | 15 |
+| 4 | Computer Vision | Do | 27 |
+| 5 | NLP — Foundations to Advanced | Do | 30 |
+| 6 | Speech & Audio | Do | 18 |
 | 7 | Transformers Deep Dive | Do | 14 |
 | 8 | Generative AI | Do | 14 |
 | 9 | Reinforcement Learning | Do | 13 |
@@ -35,9 +35,11 @@ Build goal: 還不確定。
 | 17 | Infrastructure & Production | Do | 32 |
 | 18 | Ethics, Safety & Alignment | Do | 31 |
 | 19 | Capstone Projects | Do | 620 |
-|  | **Total (Review + Do)** |  | **1016** |
+|  | **Total (Review + Do)** |  | **1114** |
 
-Note: Phase 2 is marked Review (not Skip) because Classical ML scored 0/2.
+Note: Phase 1 is a light review at the learner's request. Phases 2, 3, 5 and 7 are full Do because the learner guessed those quiz answers.
+
+Priority order for the graduation project (~148 h core): Phase 1 (review) -> 2 -> 3 -> 5 -> 7 -> 10 -> 11. Phases 4 (vision) and 6 (speech) stay Do but can wait until the project topic is known.
 
 ## Progress log
 | Date | Lesson | Quiz | Note |
