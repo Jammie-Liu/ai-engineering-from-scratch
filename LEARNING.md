@@ -45,5 +45,6 @@ Priority order for the graduation project (~148 h core): Phase 1 (review) -> 2 -
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-10-14 | 01-math-foundations/01-linear-algebra-intuition | 3/3 | Strong on dot product, rotation, rank. Asked why projection onto [1,1,1] gives the mean. LoRA still fuzzy; revisit at Phase 11/08. |
+| 2026-10-18 | 01-math-foundations/02-vectors-matrices-operations | 2/2 | Shape rule and * vs @ solid. Missed bias size in broadcasting (said 4, not 2). Determinant needed a slower second pass. Learner has no Python yet: interleave Python mini-lessons from next session, goal is reading matmul-style code before Phase 2. |
 
 ## Review queue
